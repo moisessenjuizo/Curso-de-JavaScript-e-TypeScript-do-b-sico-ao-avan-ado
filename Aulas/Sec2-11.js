@@ -5,4 +5,4 @@ console.log(123);
 /*
 um bloco de
 linha de comentário
-*/
+*///
