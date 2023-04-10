@@ -35,8 +35,10 @@ console.log('O filho de ', nome, ' se chama Eduardo.'); */
 // console.log(nomeCompleto, joseHenrique)
 
 //Case-sensetive
-let nomeCliente = "Luiz";
-let NomeCliente = "Jojo";
-console.log(nomeCliente, NomeCliente); // tem que ser igual, pq é case-sensetive, uma
+// let nomeCliente = "Luiz";
+// let NomeCliente = "Jojo";
+// console.log(nomeCliente, NomeCliente); // tem que ser igual, pq é case-sensetive, uma
 //letra maiuscula muda tudo.
 // não utilize var, use let. sempre que algo vai variar use let
+
+
