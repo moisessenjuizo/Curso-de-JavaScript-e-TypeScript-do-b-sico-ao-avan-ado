@@ -14,10 +14,19 @@
 
 // PODEMOS USAR CONDIÇÕES SEM ELSE IF, UTILIZANDO APENAS IF E ELSE
 // POSSO USAR APENAS O IF TBM
-const tenhoGrana = NaN;
+// const tenhoGrana = NaN;
 
-if (tenhoGrana){
-    console.log('vou sair de casa')
-} else{
-    console.log('não vou sair!')
-}
+// if (tenhoGrana){
+//     console.log('vou sair de casa')
+// } else{
+//     console.log('não vou sair!')
+// }
+
+a = '5';
+b = 5;
+c = Number(a);
+console.log(c + b);
+
+b = 5;
+c = 5;
+console.log(b + c);
